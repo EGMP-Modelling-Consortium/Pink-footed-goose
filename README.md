@@ -1,2 +1,2 @@
 # Pink-footed-goose
-Pink-footed goose population modelling 
+Population modelling for Pink-footed Goose Svalbard Population
